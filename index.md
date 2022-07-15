@@ -25,7 +25,6 @@ In machine learning, model parameters can be divided into two main categories:
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lufthik21/FnB-Delivery-ETA-Prediction)
 
 <div style="text-align: justify">First I build the EDA of the data. Then, to identify interesting combinations that occur more than by chance, I calculate the parameters that will be used in the prediction. Lastly, I modeled and evaluated the model I made to test my hypothesis.</div>
-<br>
 
 ---
 ## Root finding functions
@@ -33,7 +32,6 @@ In machine learning, model parameters can be divided into two main categories:
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lufthik21/root-finding-and-linear-equation-system-solution-finder-py)
 
 <div style="text-align: justify">These functions are made to accomplish my final exam at 4th term. It can be used daily codes as well free for all Bisec and newton-raphson for root finding GaussEl and Jacobi for linear equation system</div>
-<br>
 
 ---
 <center>© 2022 Lufthik K. Powered by Jekyll and the Minimal Theme.</center>
