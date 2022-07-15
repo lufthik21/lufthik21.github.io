@@ -19,6 +19,7 @@ In machine learning, model parameters can be divided into two main categories:
 1. Trainable parameters: such as weights in neural networks learned by training algorithms and the user does not interfere in the process,
 2. Hyper-parameters that user can set before training operation such as learning rate or the number of dense layers in the model.</div>
 
+
 ---
 ## F&B Delivery ETA Prediction
 
