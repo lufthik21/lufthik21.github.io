@@ -7,7 +7,7 @@ My complete implementation of assignments and classes in [***Bangkit 2022***]([h
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lufthik21/Hotel-Recomendation-Sys-Traveloka-Bangkit-2022)
 
-**Hotel Recsys:** Make a new approach to enhance hotel recommendations using a wide and deep learning network model to strike the right balance between memorization and generalization. With such a vast and varied user base, we acknowledged the fact that a one-size-fits-all solution would not have worked to cater to the varying demand and supply. There was a need to provide our users with a more personalized experience on the hotel search page. ([GitHub](https://github.com/lufthik21/Hotel-Recomendation-Sys-Traveloka-Bangkit-2022)).
+**Hotel Recsys:** Make a new approach to enhance hotel recommendations using a wide and deep learning network model to strike the right balance between memorization and generalization. With such a vast and varied user base, we acknowledged the fact that a one-size-fits-all solution would not have worked to cater to the varying demand and supply. There was a need to provide our users with a more personalized experience on the hotel search page.
 
 ---
 ## Facies Classification
