@@ -40,11 +40,11 @@ In machine learning, model parameters can be divided into two main categories:
 
 
 ---
-## Root finding functions
+## SQL, Tableau, & Excel Portfolio
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lufthik21/root-finding-and-linear-equation-system-solution-finder-py)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lufthik21/SQL-Tableau-Portfolio)
 
-<div style="text-align: justify">These functions are made to accomplish my final exam at 4th term. It can be used daily codes as well free for all Bisec and newton-raphson for root finding GaussEl and Jacobi for linear equation system</div>
+<div style="text-align: justify">Extensive portfolio of work exhibiting analytical capabilities using spreadsheets, SQL and Tableau.</div>
 
 
 ---
