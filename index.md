@@ -10,6 +10,17 @@ My complete implementation of assignments and classes in [***Bangkit 2022***]([h
 **Hotel Recsys:** Make a new approach to enhance hotel recommendations using a wide and deep learning network model to strike the right balance between memorization and generalization. With such a vast and varied user base, we acknowledged the fact that a one-size-fits-all solution would not have worked to cater to the varying demand and supply. There was a need to provide our users with a more personalized experience on the hotel search page.
 
 ---
+
+## Bike Sharing Analysis
+
+My implementation of assignments and classes in [***Google Data Analytics***]([https://coursera.org/verify/profession%20al-cert/MCNUJLYV3KTW))
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lufthik21/Cyclistic---Data-Analytics-Portfolio)
+
+**Bike Sharing Analysis:** Recommend marketing strategies aimed at converting casual riders into annual members by better understanding how annual members and casual riders use Cyclistic bikes differently.
+
+---
+
 ## Facies Classification
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lufthik21/Facies-Prediction-Tensorflow)
