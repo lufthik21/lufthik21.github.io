@@ -3,7 +3,7 @@
 
 ## Hotel Recommendation System
 
-My complete implementation of assignments and classes in [***Bangkit 2022***]([http://web.stanford.edu/class/cs224n/](https://grow.google/intl/id_id/bangkit/)) by Dicoding, Google, Goto, Traveloka, etc.
+My complete implementation of assignments and classes in [***Bangkit 2022***](https://grow.google/intl/id_id/bangkit/)) by Dicoding, Google, Goto, Traveloka, etc.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lufthik21/Hotel-Recomendation-Sys-Traveloka-Bangkit-2022)
 
