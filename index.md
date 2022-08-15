@@ -3,7 +3,7 @@
 
 ## Hotel Recommendation System
 
-My complete implementation of assignments and classes in [***Bangkit 2022***](https://grow.google/intl/id_id/bangkit/)) by Dicoding, Google, Goto, Traveloka, etc.
+My complete implementation of assignments and classes in [***Bangkit 2022***](https://grow.google/intl/id_id/bangkit/) by Dicoding, Google, Goto, Traveloka, etc.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lufthik21/Hotel-Recomendation-Sys-Traveloka-Bangkit-2022)
 
@@ -13,11 +13,21 @@ My complete implementation of assignments and classes in [***Bangkit 2022***](ht
 
 ## Bike Sharing Analysis
 
-My implementation of assignments and classes in [***Google Data Analytics***]([https://coursera.org/verify/profession%20al-cert/MCNUJLYV3KTW))
+My implementation of assignments and classes in [***Google Data Analytics***]([https://coursera.org/verify/profession%20al-cert/MCNUJLYV3KTW)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lufthik21/Cyclistic---Data-Analytics-Portfolio)
 
 **Bike Sharing Analysis:** Recommend marketing strategies aimed at converting casual riders into annual members by better understanding how annual members and casual riders use Cyclistic bikes differently.
+
+---
+
+## Marketing Analysis
+
+My implementation of assignments and classes in [***Meta Marketing Analytics***]([https://www.coursera.org/account/accomplishments/specialization/certificate/9THARJ2C37EX)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lufthik21/Marketing-Analytics)
+
+**Marketing Analytics:** Company 'XYZ' has hired you as a Data Scientist and you've been told by the Chief Marketing Officer that recent marketing campaigns have not been as effective as they were expected to be and the conversion rate is very low. Your task is to analyze the related data, understand the problem, and identify key insights and recommendations for the CMO to potentially implement.
 
 ---
 
